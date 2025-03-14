@@ -1,3 +1,3 @@
 ## MC先行卡（繁中版本）
-更新日期：3/9 (MZTM)  
+更新日期：3/14 (DUAD)  
 <https://salix5.github.io/ypk/pre-release.ypk>
