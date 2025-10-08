@@ -4,5 +4,5 @@
 
 
 ## 腳本來源
-MC超先行卡
+MC超先行卡  
 <https://mycard.world/ygopro/arena/#/superpre>
