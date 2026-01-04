@@ -1,5 +1,5 @@
 ## MC超先行卡（繁中版本）
-更新日期：1/3 (BLZD)  
+更新日期：1/4 (BLZD)  
 <https://salix5.github.io/ypk/pre-release.ypk>
 
 
