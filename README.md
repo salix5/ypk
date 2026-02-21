@@ -1,5 +1,5 @@
 ## MC超先行卡（繁中版本）
-更新日期：2/19 (CORI)  
+更新日期：2/21 (LOCH)  
 <https://salix5.github.io/ypk/pre-release.ypk>
 
 
