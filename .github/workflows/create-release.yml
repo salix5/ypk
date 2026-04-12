@@ -1,0 +1,22 @@
+name: Create Release
+
+on:
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Upload files to GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG_NAME="$(date +'%y%m%d-%H%M%S')"
+          TITLE="$(date +'%Y-%m-%d')"
+          gh release create "$TAG_NAME" --title "$TITLE" pre-release.ypk
